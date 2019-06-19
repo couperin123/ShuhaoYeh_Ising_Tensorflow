@@ -1,5 +1,8 @@
-## Test
+## Using TensorFlow to discriminate between the low- and high-temperature phases in ferromagnetic Ising model
 
-$$ \sum_n a_n $$
+Ising_TF.ipynb
 
-blah blah
+data:
+Xtest.txt
+Xtest_tri.txt
+Xtrain.txt
