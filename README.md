@@ -1,6 +1,6 @@
 ## Using neural network to discriminate between the low- and high-temperature phases in ferromagnetic Ising model
 
-Main Jupyter notebook: Ising_TF.ipynb
+Main Jupyter notebook: Ising_TF.ipynb (Please use [nbviewer] https://nbviewer.jupyter.org/ for visualizing the notebook.)
 
 Data:
 Xtest.txt
